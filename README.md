@@ -1,18 +1,24 @@
 <div align="center">
-<h1>Urban Waterlogging Detection: A Challenging Benchmark and Large-Small Model Co-Adapter [ECCV2024]</h1>
 
-Suqi Song<sup>1†</sup>, Chenxu Zhang<sup>1†</sup>, Peng Zhang<sup>1</sup>, Pengkun Li<sup>2</sup>, Fenglong Song<sup>3</sup>, Lei Zhang<sup>1*</sup>
+# UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety
 
-<sup>1</sup>Chongqing University,
-<sup>2</sup>Huawei Technologies Co., Ltd.,
-<sup>3</sup>Huawei Noah's Ark Lab
+Feiteng Han<sup>1*</sup>, Ming Xue<sup>2*</sup>, Kaiyu Li<sup>1</sup>, Tao Feng<sup>2</sup>, Wei Shen<sup>1</sup>,  
+Hui Wang<sup>1</sup>, Yudong Fang<sup>2†</sup>, Yu Wang<sup>1†</sup>, Xuecheng Tan<sup>3</sup>
+
+<sup>1</sup>School of Information Technology, Beijing City University,  
+<sup>2</sup>Big Data Center, Ministry of Emergency Management,  
+<sup>3</sup>School of Software, Tsinghua University
 
 <div>
-<sup>†</sup> Equal contribution
-<sup>*</sup> Corresponding author
+<sup>†</sup> Equal contribution &nbsp;&nbsp; <sup>*</sup> Corresponding author
 </div>
+
 <div>
-  {songsuqi, zhangpeng}@stu.cqu.edu.cn, {zhangchenxu, leizhang}@cqu.edu.cn, {lipengkun3, songfenglong}@huawei.com
+  {hanfeiteng, kaiyuli, shen_0711, bcuwhui, wangyu}@bcu.edu.cn, <br>
+  research.xue@gmail.com, ifengtaoi@outlook.com, <br>
+  fangyudong9713@ustc.edu, tanxuecheng@tsinghua.edu.cn
+</div>
+
 </div>
 
 ## Abstract
