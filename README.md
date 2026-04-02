@@ -29,15 +29,15 @@ higher flexibility, scalability and efficiency. State-of-the-art vision language
 </div> -->
 ## UMSBench-v1 Dataset (Samples Subset)
 
-> **⚠️ Note:** The data provided via the links below represents a **samples subset** of the complete dataset, intended for demonstration and initial exploration purposes.
-
-Training and testing examples are included in the developed UW-Bench. For objectively evaluating the capability of the model in real-world applications, we consider both *general-sample* and *hard-sample* cases in the test set.
-
+> **⚠️ Note:** The data provided via the links below represents a **samples subset** of the complete dataset, intended for demonstration and initial exploration purposes.This samples subset contains two folders: `synthetic` and `real`.
 ### 📥 Download Links
 You can access the dataset samples subset through either of the following platforms:
-* **[Baidu Drive](https://pan.baidu.com/s/1iPuaVEVzDdzSTmIt5IPnAw)**
-* **[Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSfEP8b8D2MUJ23YbCmtrdc7-1-_8YH7bspRdwHYklpGR9L5zw/viewform?usp=dialog)**
+* **[Baidu Drive](https://pan.baidu.com/s/1g9zy5I0nT8RO64LsfrRpeQ?)**
+* **[Google Drive](https://drive.google.com/file/d/119AdLDWoQUtZY1LqiRR_SdxiJsRWRPjM/view?usp=sharing)**
 
+### 🙏 Acknowledgments
+
+This work was supported by the National Key Research and Development Program of China (2024YFC3015605, 2024YFC3015505). We appreciate Xihong Lin, Yijie Li, Runquan Shen, Zimeng Xin, Boyu Gao, Xinze He, Zitong Hui, Tianfei Xin, Yuyan Wang at BCU for their work of data processing. We also appreciate the authors of previous SOTA works for their open-source codes, models and datasets, and the anonymous reviewers for their helpful feedback.
 <!-- ## Citation
 
 ```
