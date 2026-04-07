@@ -80,7 +80,7 @@ The data provided via the links below represents a **samples subset** of the com
 ### 2. Full Dataset Access Agreement
 Due to the domain-specific and sensitive nature of underground mining safety data, the full **UMSBench-v1.0** dataset is available strictly for **non-commercial, academic research purposes**. To access the full dataset, please follow these steps:
 
-1. Download the [Dataset Access Agreement Form (PDF)](UMSBench-v1 Dataset Access Agreement.pdf) *
+1. Download the [Dataset Access Agreement Form (PDF)](/UMSBench-v1%20Dataset%20Access%20Agreement.pdf) *
 2. Carefully read the terms. The form must be completely filled out and **hand-signed by a full-time faculty member or legal representative** (e.g., Professor, PI, or Lab Director) of your institution.
 3. Send the scanned, signed copy of the agreement using your **official institutional email address** to: 
    📧 `hanfeiteng@bcu.edu.cn`.
