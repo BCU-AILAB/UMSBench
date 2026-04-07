@@ -74,8 +74,8 @@ Our dataset utilizes the proposed **I2T2I** pipeline to generate high-fidelity s
 ### 1. Samples Subset (Publicly Available)
 The data provided via the links below represents a **samples subset** of the complete dataset, intended for demonstration and initial exploration purposes. This subset contains two folders: `synthetic` and `real`.
 
-* ☁️ **[Baidu Drive](https://pan.baidu.com/s/12nWnD3LAW3wsHNyktlrnLA?pwd=yed1)**
-* ☁️ **[Google Drive](https://drive.google.com/file/d/119AdLDWoQUtZY1LqiRR_SdxiJsRWRPjM/view?usp=sharing)(Temporarily unavailable)**
+* ☁️ **[Baidu Drive](https://pan.baidu.com/s/12nWnD3LAW3wsHNyktlrnLA?pwd=yed1)(Available)**
+* ☁️ **[Google Drive](https://drive.google.com/file/d/1_5tVtb7M6QQ5XnCT63zenG1SUnPOXSdj/view?usp=sharing)(Available)**
 
 ### 2. Full Dataset Access Agreement
 Due to the domain-specific and sensitive nature of underground mining safety data, the full **UMSBench-v1.0** dataset is available strictly for **non-commercial, academic research purposes**. To access the full dataset, please follow these steps:
