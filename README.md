@@ -79,6 +79,6 @@ If you find our dataset or paper useful in your research, please consider citing
 @inproceedings{han2024umsbench,
   title={UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety},
   author={Han, Feiteng and Xue, Ming and Li, Kaiyu and Feng, Tao and Shen, Wei and Wang, Hui and Fang, Yudong and Wang, Yu and Tan, Xuecheng},
-  journal={arXiv preprint}, 
+  booktitle={Under Review}, 
   year={2024}
 }
