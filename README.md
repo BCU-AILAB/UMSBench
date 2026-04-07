@@ -32,7 +32,7 @@ The synthetic data is generated via a newly proposed **Image-to-Text-to-Image (I
 
 Our dataset utilizes the proposed **I2T2I** pipeline to generate high-fidelity synthetic images that closely match the semantic distribution of real underground mining scenarios. Below are some examples of the generated images paired with their corresponding textual prompts.
 
-| Synthetic Image | Generation Prompt (I2T2I) |
+| Synthetic Image | Generation Prompt|
 | :---: | :--- |
 | <img src="picture/893.jpg" width="200"/> | **Prompt:** * Intersection (long-range camera at the end of the corridor facing the passage and equipment side, inner side of the corner): the frame covers the inner corner area and adjacent equipment zones, where a fire extinguisher, belt conveyor, motor, and warning sign are visible; the scene is accompanied by insufficient lighting and similar conditions; the belt conveyor is close to a poorly lit area, where the dim floor lighting creates irregular reflections; the fan is also near a poorly lit area, where the dim floor lighting creates irregular reflections. Attention should be paid to passage clearance and sign visibility, equipment guarding and line fixation with moisture protection, and the placement and accessibility of firefighting equipment, so as to prevent mechanical injury risks from rotating parts and risks of accidental entry and collision caused by poor visibility, ensuring safe production. Underground surveillance image, fixed camera position, real security-monitoring perspective, no text, no watermark.* |
 | <img src="picture/411.jpg" width="200"/> | **Prompt:** *Underground substation (high-mounted fixed corner camera overlooking the passage, beside the cable trench): the frame covers the area beside the cable trench and adjacent equipment zones, where warning signs, pipes, a fan, and valves are visible; the scene is accompanied by dust, water stains, and similar conditions; overhead valves span across the walkway, with some hanging down close to the damp floor. Attention should be paid to passage clearance and sign visibility, equipment guarding and line fixation with moisture protection, and the placement and accessibility of firefighting equipment, so as to prevent fire risks caused by dust accumulation and friction, as well as blocked passage, tripping, and collision risks, ensuring safe production. Underground surveillance image, fixed camera position, real security-monitoring perspective, no text, no watermark.* |
@@ -79,6 +79,6 @@ If you find our dataset or paper useful in your research, please consider citing
 @inproceedings{han2024umsbench,
   title={UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety},
   author={Han, Feiteng and Xue, Ming and Li, Kaiyu and Feng, Tao and Shen, Wei and Wang, Hui and Fang, Yudong and Wang, Yu and Tan, Xuecheng},
-  journal={arXiv preprint}, 
+  booktitle={Under Review}, 
   year={2024}
 }
