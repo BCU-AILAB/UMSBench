@@ -20,9 +20,9 @@
 
 ## 📑 Table of Contents
 
-- [📖 Abstract](#-abstract)
 - [🔥 News](#-news)
 - [✨ Highlights](#-highlights)
+- [📖 Abstract](#-abstract)
 - [🖼️ Dataset Overview & I2T2I Examples](#%EF%B8%8F-dataset-overview--i2t2i-examples)
 - [📥 Dataset Download](#-dataset-download)
   - [1. Samples Subset (Publicly Available)](#1-samples-subset-publicly-available)
