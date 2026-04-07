@@ -18,6 +18,7 @@
 `fangyudong9713@ustc.edu` | `tanxuecheng@tsinghua.edu.cn`
 
 </div>
+
 ---
 ## 🔥 News
 
@@ -25,8 +26,6 @@
 * **[2026-04-xx]** 💻 The evaluation code and fine-tuning scripts for baseline VLMs (including the **Qwen** and **InternVL** series) are now available in this repository!
 * **[2026-03-xx]** 📄 The preprint of our paper is now available on [arXiv](link_to_arxiv). We have also submitted our work to **ICIC2026**.
 * **[2026-03-xx]** 🚧 UMSBench project initialized. We successfully constructed 40k QA pairs covering 30+ underground mining site types.
-
----
 ---
 
 ## 📖 Abstract
