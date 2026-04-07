@@ -83,7 +83,7 @@ Due to the domain-specific and sensitive nature of underground mining safety dat
 1. Download the [Dataset Access Agreement Form (PDF)](#) *(TODO: Insert the link to your agreement PDF here)*.
 2. Carefully read the terms. The form must be completely filled out and **hand-signed by a full-time faculty member or legal representative** (e.g., Professor, PI, or Lab Director) of your institution.
 3. Send the scanned, signed copy of the agreement using your **official institutional email address** to: 
-   📧 `hanfeiteng@bcu.edu.cn` and `wangyu@bcu.edu.cn`.
+   📧 `hanfeiteng@bcu.edu.cn`.
    * **Email Subject Format:** `[UMSBench Full Dataset Application] - {Your Institution} - {Your Name}`
 4. Upon approval (usually within 3-5 business days), we will reply with the download links and decryption passwords for the full dataset.
 
