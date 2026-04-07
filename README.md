@@ -1,15 +1,17 @@
 <div align="center">
 
-# 🚇 UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety
+# UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Dataset](https://img.shields.io/badge/Dataset-Release-green.svg)](#-dataset-download)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#) **Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#)
+
+**Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
 **Hui Wang**<sup>1</sup> &nbsp; **Yudong Fang**<sup>2†</sup> &nbsp; **Yu Wang**<sup>1†</sup> &nbsp; **Xuecheng Tan**<sup>3</sup>
 
 <sup>1</sup>*School of Information Technology, Beijing City University* <sup>2</sup>*Big Data Center, Ministry of Emergency Management* <sup>3</sup>*School of Software, Tsinghua University*
 
-<sup>†</sup> Equal contribution &nbsp;&nbsp; <sup>*</sup> Corresponding author
+<sup>†</sup> Corresponding author &nbsp;&nbsp; <sup>*</sup> Equal contribution
 
 `{hanfeiteng, kaiyuli, shen_0711, bcuwhui, wangyu}@bcu.edu.cn` <br>
 `research.xue@gmail.com` | `ifengtaoi@outlook.com` <br>
