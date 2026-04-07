@@ -5,7 +5,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Release-green.svg)](#-dataset-download)
 [![Status](https://img.shields.io/badge/Status-Under%20Review%20@%20ACM%20MM%202026-blue.svg)](#)
 <!-- [![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#) -->
-<!-- **Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
+**Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
 **Hui Wang**<sup>1</sup> &nbsp; **Yudong Fang**<sup>2†</sup> &nbsp; **Yu Wang**<sup>1†</sup> &nbsp; **Xuecheng Tan**<sup>3</sup>
 
 <sup>1</sup>*School of Information Technology, Beijing City University* <sup>2</sup>*Big Data Center, Ministry of Emergency Management* <sup>3</sup>*School of Software, Tsinghua University*
@@ -14,7 +14,7 @@
 
 `{hanfeiteng, kaiyuli, shen_0711, bcuwhui, wangyu}@bcu.edu.cn` <br>
 `research.xue@gmail.com` | `ifengtaoi@outlook.com` <br>
-`fangyudong9713@ustc.edu` | `tanxuecheng@tsinghua.edu.cn` -->
+`fangyudong9713@ustc.edu` | `tanxuecheng@tsinghua.edu.cn`
 
 </div>
 
