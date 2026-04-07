@@ -32,12 +32,12 @@ The synthetic data is generated via a newly proposed **Image-to-Text-to-Image (I
 
 Our dataset utilizes the proposed **I2T2I** pipeline to generate high-fidelity synthetic images that closely match the semantic distribution of real underground mining scenarios. Below are some examples of the generated images paired with their corresponding textual prompts.
 
-| Real Image | Synthetic Image | Generation Prompt (I2T2I) |
-| :---: | :---: | :--- |
-| <img src="assets/real_1.jpg" width="200"/> | <img src="assets/syn_1.jpg" width="200"/> | **Prompt:** *A dimly lit underground coal mine tunnel. A miner wearing a yellow hard hat, reflective safety vest, and headlamp is inspecting a heavy-duty conveyor belt. The ground is slightly damp, and metal support beams line the tunnel walls. High realism, industrial lighting.* |
-| <img src="assets/real_2.jpg" width="200"/> | <img src="assets/syn_2.jpg" width="200"/> | **Prompt:** *Safety hazard in a subterranean mine. Water is visibly leaking from the rocky roof, forming muddy puddles on the tracks. A yellow 'Caution: Slippery' warning sign is placed on the side. Gritty texture, high detail.* |
-| <img src="assets/real_3.jpg" width="200"/> | <img src="assets/syn_3.jpg" width="200"/> | **Prompt:** *An automated tunnel boring machine operating at the rock face of an underground gold mine. Thick dust particles are suspended in the air, illuminated by bright artificial spotlights. No human workers are present in the immediate vicinity. Cinematic lighting, ultra-realistic.* |
-| <img src="assets/real_4.jpg" width="200"/> | <img src="assets/syn_4.jpg" width="200"/> | **Prompt:** *A worker in an underground mine environment inappropriately operating machinery without safety gloves. The scene focuses on the worker's hands manipulating a control panel. Dark background, focal point on the control panel and hands, photorealistic.* |
+| Synthetic Image | Generation Prompt (I2T2I) |
+| :---: | :--- |
+| <img src="assets/syn_1.jpg" width="200"/> | **Prompt:** *A dimly lit underground coal mine tunnel. A miner wearing a yellow hard hat, reflective safety vest, and headlamp is inspecting a heavy-duty conveyor belt. The ground is slightly damp, and metal support beams line the tunnel walls. High realism, industrial lighting.* |
+| <img src="assets/syn_2.jpg" width="200"/> | **Prompt:** *Safety hazard in a subterranean mine. Water is visibly leaking from the rocky roof, forming muddy puddles on the tracks. A yellow 'Caution: Slippery' warning sign is placed on the side. Gritty texture, high detail.* |
+| <img src="assets/syn_3.jpg" width="200"/> | **Prompt:** *An automated tunnel boring machine operating at the rock face of an underground gold mine. Thick dust particles are suspended in the air, illuminated by bright artificial spotlights. No human workers are present in the immediate vicinity. Cinematic lighting, ultra-realistic.* |
+| <img src="assets/syn_4.jpg" width="200"/> | **Prompt:** *A worker in an underground mine environment inappropriately operating machinery without safety gloves. The scene focuses on the worker's hands manipulating a control panel. Dark background, focal point on the control panel and hands, photorealistic.* |
 
 > **Note for Users:** The above prompts are representative examples used during the synthesis phase. The full dataset includes diverse prompts covering 30+ site types.
 
