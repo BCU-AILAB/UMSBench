@@ -74,13 +74,13 @@ Our dataset utilizes the proposed **I2T2I** pipeline to generate high-fidelity s
 ### 1. Samples Subset (Publicly Available)
 The data provided via the links below represents a **samples subset** of the complete dataset, intended for demonstration and initial exploration purposes. This subset contains two folders: `synthetic` and `real`.
 
-* ☁️ **[Baidu Drive](https://pan.baidu.com/s/1g9zy5I0nT8RO64LsfrRpeQ?)**
+* ☁️ **[Baidu Drive](https://pan.baidu.com/s/12nWnD3LAW3wsHNyktlrnLA?pwd=yed1)**
 * ☁️ **[Google Drive](https://drive.google.com/file/d/119AdLDWoQUtZY1LqiRR_SdxiJsRWRPjM/view?usp=sharing)**
 
 ### 2. Full Dataset Access Agreement
 Due to the domain-specific and sensitive nature of underground mining safety data, the full **UMSBench-v1.0** dataset is available strictly for **non-commercial, academic research purposes**. To access the full dataset, please follow these steps:
 
-1. Download the [Dataset Access Agreement Form (PDF)](#) *(TODO: Insert the link to your agreement PDF here)*.
+1. Download the [Dataset Access Agreement Form (PDF)](#) *
 2. Carefully read the terms. The form must be completely filled out and **hand-signed by a full-time faculty member or legal representative** (e.g., Professor, PI, or Lab Director) of your institution.
 3. Send the scanned, signed copy of the agreement using your **official institutional email address** to: 
    📧 `hanfeiteng@bcu.edu.cn`.
