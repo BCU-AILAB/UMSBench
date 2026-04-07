@@ -5,7 +5,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Release-green.svg)](#-dataset-download)
 [![Status](https://img.shields.io/badge/Status-Under%20Review%20@%20ACM%20MM%202026-blue.svg)](#)
 <!-- [![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#) -->
-**Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
+<!-- **Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
 **Hui Wang**<sup>1</sup> &nbsp; **Yudong Fang**<sup>2†</sup> &nbsp; **Yu Wang**<sup>1†</sup> &nbsp; **Xuecheng Tan**<sup>3</sup>
 
 <sup>1</sup>*School of Information Technology, Beijing City University* <sup>2</sup>*Big Data Center, Ministry of Emergency Management* <sup>3</sup>*School of Software, Tsinghua University*
@@ -14,7 +14,7 @@
 
 `{hanfeiteng, kaiyuli, shen_0711, bcuwhui, wangyu}@bcu.edu.cn` <br>
 `research.xue@gmail.com` | `ifengtaoi@outlook.com` <br>
-`fangyudong9713@ustc.edu` | `tanxuecheng@tsinghua.edu.cn`
+`fangyudong9713@ustc.edu` | `tanxuecheng@tsinghua.edu.cn` -->
 
 </div>
 
@@ -28,14 +28,12 @@
   - [1. Samples Subset (Publicly Available)](#1-samples-subset-publicly-available)
   - [2. Full Dataset Access Agreement](#2-full-dataset-access-agreement)
 - [🙏 Acknowledgments](#-acknowledgments)
-- [📝 Citation](#-citation)
+<!-- - [📝 Citation](#-citation) -->
 <a id="news"></a>
 
 ## 🔥 News
 * **[2026-04-07]** 📝 Our paper "UMSBench-v1" has been submitted to **ACM Multimedia (ACM MM) 2026** and is currently under review!
 * **[2026-02-22]** 🚧 UMSBench project initialized. We successfully constructed 40k QA pairs covering 30+ underground mining site types.
-
----
 
 <a id="highlights"></a>
 ## ✨ Highlights
@@ -100,7 +98,7 @@ We appreciate Xihong Lin, Yijie Li, Runquan Shen, Zimeng Xin, Boyu Gao, Xinze He
 
 ---
 
-## 📝 Citation
+<!-- ## 📝 Citation
 If you find our dataset or paper useful in your research, please consider citing our work:
 
 ```bibtex
@@ -109,4 +107,4 @@ If you find our dataset or paper useful in your research, please consider citing
   author={Han, Feiteng and Xue, Ming and Li, Kaiyu and Feng, Tao and Shen, Wei and Wang, Hui and Fang, Yudong and Wang, Yu and Tan, Xuecheng},
   booktitle={Under Review}, 
   year={2024}
-}
+} -->
