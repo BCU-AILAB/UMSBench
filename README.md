@@ -4,7 +4,8 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Dataset](https://img.shields.io/badge/Dataset-Release-green.svg)](#-dataset-download)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Under%20Review%20@%20ACM%20MM%202026-blue.svg)](#)
+<!-- [![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#) -->
 
 **Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
 **Hui Wang**<sup>1</sup> &nbsp; **Yudong Fang**<sup>2†</sup> &nbsp; **Yu Wang**<sup>1†</sup> &nbsp; **Xuecheng Tan**<sup>3</sup>
@@ -30,7 +31,14 @@
 ---
 
 <a id="highlights"></a>
+## ✨ Highlights
 
+| Features | Description |
+| :--- | :--- |
+| 🔄 **Real-Synthetic Composited** | The **first** multimodal VQA benchmark dataset specifically designed for underground mining safety, comprising **10k** real-synthetic images. |
+| 🛠️ **Novel I2T2I Mechanism** | Utilizes an innovative **Image-to-Text-to-Image** pipeline driven by LLM captioning and prompting engineering to overcome the scarcity of sensitive underground safety data. |
+| 📊 **Comprehensive Scenarios** | Contains **40k** question-answer pairs covering 4 core dimensions: safety reasoning, captioning, understanding, and perception across **30+** site types. |
+| ⚡ **Efficient Benchmarking** | Tasks are reformulated as **Single-Choice Questions (SCQs)**, enabling flexible, highly scalable, and efficient evaluation for state-of-the-art Vision-Language Models. |
 
 ---
 
