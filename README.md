@@ -1,17 +1,13 @@
 <div align="center">
 
 # UMSBench-v1: A Real-Synthetic Composited Multimodal Benchmark Dataset for Underground Mine Safety
-
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Dataset](https://img.shields.io/badge/Dataset-Release-green.svg)](#-dataset-download)
 [![Status](https://img.shields.io/badge/Status-Under%20Review%20@%20ACM%20MM%202026-blue.svg)](#)
 <!-- [![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](#) -->
-
 **Feiteng Han**<sup>1*</sup> &nbsp; **Ming Xue**<sup>2*</sup> &nbsp; **Kaiyu Li**<sup>1</sup> &nbsp; **Tao Feng**<sup>2</sup> &nbsp; **Wei Shen**<sup>1</sup> <br>
 **Hui Wang**<sup>1</sup> &nbsp; **Yudong Fang**<sup>2†</sup> &nbsp; **Yu Wang**<sup>1†</sup> &nbsp; **Xuecheng Tan**<sup>3</sup>
-
 <sup>1</sup>*School of Information Technology, Beijing City University* <sup>2</sup>*Big Data Center, Ministry of Emergency Management* <sup>3</sup>*School of Software, Tsinghua University*
-
 <sup>†</sup> Corresponding author &nbsp;&nbsp; <sup>*</sup> Equal contribution
 
 `{hanfeiteng, kaiyuli, shen_0711, bcuwhui, wangyu}@bcu.edu.cn` <br>
@@ -24,6 +20,7 @@
 
 ## 🔥 News
 * **[2026-04-07]** 📝 Our paper "UMSBench-v1" has been submitted to **ACM Multimedia (ACM MM) 2026** and is currently under review!
+* **[2026-02-22]** 🚧 UMSBench project initialized. We successfully constructed 40k QA pairs covering 30+ underground mining site types.
 
 ---
 
