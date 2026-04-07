@@ -32,7 +32,7 @@ The synthetic data is generated via a newly proposed **Image-to-Text-to-Image (I
 
 Our dataset utilizes the proposed **I2T2I** pipeline to generate high-fidelity synthetic images that closely match the semantic distribution of real underground mining scenarios. Below are some examples of the generated images paired with their corresponding textual prompts.
 
-| Synthetic Image | Generation Prompt (I2T2I) |
+| Synthetic Image | Generation Prompt|
 | :---: | :--- |
 | <img src="assets/syn_1.jpg" width="200"/> | **Prompt:** *A dimly lit underground coal mine tunnel. A miner wearing a yellow hard hat, reflective safety vest, and headlamp is inspecting a heavy-duty conveyor belt. The ground is slightly damp, and metal support beams line the tunnel walls. High realism, industrial lighting.* |
 | <img src="assets/syn_2.jpg" width="200"/> | **Prompt:** *Safety hazard in a subterranean mine. Water is visibly leaking from the rocky roof, forming muddy puddles on the tracks. A yellow 'Caution: Slippery' warning sign is placed on the side. Gritty texture, high detail.* |
