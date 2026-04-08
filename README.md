@@ -40,10 +40,12 @@
 
 | Feature | Description |
 | :--- | :--- |
-| 🥇 **First Multimodal Mining VQA Benchmark** | [cite_start]UMSBench-v1.0 is the first VQA dataset on mining, specifically designed for intelligent underground mining safety management[cite: 271]. [cite_start]It consists of **10,000** real-synthetic images and **40,000** question-answer pairs[cite: 266, 267]. [cite_start]It provides broad coverage across **30+** underground mining site types[cite: 106]. [cite_start]Tasks are designed across four cognitive levels: Scene recognition, Object Recognition, Holistic Summarization, and Safety Reasoning[cite: 497]. |
-| 🔄 **Novel I2T2I Generation for Long-tail Risks** | [cite_start]To address the long-tail issue of rare yet safety-critical events [cite: 523, 524][cite_start], we introduce a novel **Image-to-Text-to-Image (I2T2I)** mechanism for scalable synthetic image generation[cite: 272]. [cite_start]This physics-grounded pipeline ensures high domain fidelity, rigorously validated by an expert-in-the-loop verification process[cite: 533]. |
-| ⚖️ **Standardized SCQ & Voting Consensus** | [cite_start]Benchmarking tasks are formalized as Single-Choice Questions (SCQs)[cite: 274]. [cite_start]To ensure objective evaluation, we adopt a robust dual-answer protocol, retaining both machine-consensus answers generated via heterogeneous expert-model voting and final human-calibrated expert answers[cite: 517, 518, 519, 520]. |
-| 🚀 **Proven Synthetic-to-Real Transfer** | [cite_start]We conduct comprehensive experiments on **14 SOTA VLMs**[cite: 276]. [cite_start]Crucially, fine-tuning lightweight models (≤ 9B parameters) on our synthetic subset yields substantial real-world performance improvements[cite: 645, 655, 904]. [cite_start]For example, GLM-4.6V-Flash achieved a remarkable **+25.38%** performance gain[cite: 902]. |
+| 🥇 **First Multimodal Mining VQA Benchmark** | UMSBench-v1.0 is the first VQA dataset on mining, specifically designed for intelligent underground mining safety management. It consists of **10,000** real-synthetic images and **40,000** question-answer pairs. It provides broad coverage across **30+** underground mining site types. Tasks are designed across four cognitive levels: Scene recognition, Object Recognition, Holistic Summarization, and Safety Reasoning. |
+| :--- | :--- |
+| 🔄 **Novel I2T2I Generation for Long-tail Risks** | To address the long-tail issue of rare yet safety-critical events, we introduce a novel **Image-to-Text-to-Image (I2T2I)** mechanism for scalable synthetic image generation. This physics-grounded pipeline ensures high domain fidelity, rigorously validated by an expert-in-the-loop verification process. |
+| ⚖️ **Standardized SCQ & Voting Consensus** | Benchmarking tasks are formalized as Single-Choice Questions (SCQs). To ensure objective evaluation, we adopt a robust dual-answer protocol, retaining both machine-consensus answers generated via heterogeneous expert-model voting and final human-calibrated expert answers. |
+| 🚀 **Proven Synthetic-to-Real Transfer** | We conduct comprehensive experiments on **14 SOTA VLMs**. Crucially, fine-tuning lightweight models (≤ 9B parameters) on our synthetic subset yields substantial real-world performance improvements. For example, GLM-4.6V-Flash achieved a remarkable **+25.38%** performance gain. |
+
 ---
 
 ## 📖 Abstract
