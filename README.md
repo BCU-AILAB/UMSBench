@@ -38,13 +38,12 @@
 <a id="highlights"></a>
 ## ✨ Highlights
 
-| Features | Description |
+| Feature | Description |
 | :--- | :--- |
-| 🔄 **Real-Synthetic Composited** | The **first** multimodal VQA benchmark dataset specifically designed for underground mining safety, comprising **10k** real-synthetic images. |
-| 🛠️ **Novel I2T2I Mechanism** | Utilizes an innovative **Image-to-Text-to-Image** pipeline driven by LLM captioning and prompting engineering to overcome the scarcity of sensitive underground safety data. |
-| 📊 **Comprehensive Scenarios** | Contains **40k** question-answer pairs covering 4 core dimensions: safety reasoning, captioning, understanding, and perception across **30+** site types. |
-| ⚡ **Efficient Benchmarking** | Tasks are reformulated as **Single-Choice Questions (SCQs)**, enabling flexible, highly scalable, and efficient evaluation for state-of-the-art Vision-Language Models. |
-
+| 🥇 **First Multimodal Mining VQA Benchmark** | [cite_start]UMSBench-v1.0 is the first VQA dataset on mining, specifically designed for intelligent underground mining safety management[cite: 271]. [cite_start]It consists of **10,000** real-synthetic images and **40,000** question-answer pairs[cite: 266, 267]. [cite_start]It provides broad coverage across **30+** underground mining site types[cite: 106]. [cite_start]Tasks are designed across four cognitive levels: Scene recognition, Object Recognition, Holistic Summarization, and Safety Reasoning[cite: 497]. |
+| 🔄 **Novel I2T2I Generation for Long-tail Risks** | [cite_start]To address the long-tail issue of rare yet safety-critical events [cite: 523, 524][cite_start], we introduce a novel **Image-to-Text-to-Image (I2T2I)** mechanism for scalable synthetic image generation[cite: 272]. [cite_start]This physics-grounded pipeline ensures high domain fidelity, rigorously validated by an expert-in-the-loop verification process[cite: 533]. |
+| ⚖️ **Standardized SCQ & Voting Consensus** | [cite_start]Benchmarking tasks are formalized as Single-Choice Questions (SCQs)[cite: 274]. [cite_start]To ensure objective evaluation, we adopt a robust dual-answer protocol, retaining both machine-consensus answers generated via heterogeneous expert-model voting and final human-calibrated expert answers[cite: 517, 518, 519, 520]. |
+| 🚀 **Proven Synthetic-to-Real Transfer** | [cite_start]We conduct comprehensive experiments on **14 SOTA VLMs**[cite: 276]. [cite_start]Crucially, fine-tuning lightweight models (≤ 9B parameters) on our synthetic subset yields substantial real-world performance improvements[cite: 645, 655, 904]. [cite_start]For example, GLM-4.6V-Flash achieved a remarkable **+25.38%** performance gain[cite: 902]. |
 ---
 
 ## 📖 Abstract
@@ -54,7 +53,6 @@ The synthetic data is generated via a newly proposed **Image-to-Text-to-Image (I
 
 ---
 
-## 🖼️ Dataset Overview & I2T2I Examples
 ## 🖼️ Dataset Overview & I2T2I Generation Pipeline
 
 To overcome the long-tail issue of rare yet safety-critical underground events, we propose a novel two-stage **Image-to-Text-to-Image (I2T2I)** pipeline. This mechanism ensures our synthetic dataset is both physically plausible and highly relevant to mining safety.
