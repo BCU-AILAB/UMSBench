@@ -32,7 +32,7 @@
 <a id="news"></a>
 
 ## 🔥 News
-* **[2026-04-07]** 📝 Our paper "UMSBench-v1" has been submitted to **ACM Multimedia (ACM MM) 2026** and is currently under review!
+* **[2026-04-02]** 📝 Our paper "UMSBench-v1" has been submitted to **ACM Multimedia (ACM MM) 2026** and is currently under review!
 * **[2026-02-22]** 🚧 UMSBench project initialized. We successfully constructed 40k QA pairs covering 30+ underground mining site types.
 
 <a id="highlights"></a>
@@ -40,11 +40,10 @@
 
 | Feature | Description |
 | :--- | :--- |
-| 🥇 **First Multimodal Mining VQA Benchmark** | UMSBench-v1.0 is the first VQA dataset on mining, specifically designed for intelligent underground mining safety management. It consists of **10,000** real-synthetic images and **40,000** question-answer pairs. It provides broad coverage across **30+** underground mining site types. Tasks are designed across four cognitive levels: Scene recognition, Object Recognition, Holistic Summarization, and Safety Reasoning. |
-| :--- | :--- |
-| 🔄 **Novel I2T2I Generation for Long-tail Risks** | To address the long-tail issue of rare yet safety-critical events, we introduce a novel **Image-to-Text-to-Image (I2T2I)** mechanism for scalable synthetic image generation. This physics-grounded pipeline ensures high domain fidelity, rigorously validated by an expert-in-the-loop verification process. |
-| ⚖️ **Standardized SCQ & Voting Consensus** | Benchmarking tasks are formalized as Single-Choice Questions (SCQs). To ensure objective evaluation, we adopt a robust dual-answer protocol, retaining both machine-consensus answers generated via heterogeneous expert-model voting and final human-calibrated expert answers. |
-| 🚀 **Proven Synthetic-to-Real Transfer** | We conduct comprehensive experiments on **14 SOTA VLMs**. Crucially, fine-tuning lightweight models (≤ 9B parameters) on our synthetic subset yields substantial real-world performance improvements. For example, GLM-4.6V-Flash achieved a remarkable **+25.38%** performance gain. |
+| 🥇 **First Mining VQA Benchmark** | The first multimodal dataset for underground mining safety. Contains **10k** real-synthetic images and **40k** QA pairs across **30+** site types, evaluating 4 cognitive levels: Scene, Object, Summarization, and Safety Reasoning. |
+| 🔄 **Novel I2T2I Generation** | Introduces a physics-grounded **Image-to-Text-to-Image** pipeline, validated by an expert-in-the-loop mechanism, to successfully synthesize rare and long-tail safety risks. |
+| ⚖️ **Standardized Evaluation** | Tasks are formalized as **Single-Choice Questions (SCQs)**. Features a robust dual-answer protocol combining heterogeneous machine-consensus voting with human-calibrated expert ground truth. |
+| 🚀 **Proven Synthetic-to-Real Transfer** | Benchmarked on **14 SOTA VLMs**. Fine-tuning lightweight models (≤9B parameters) on our synthetic subset yields substantial real-world gains (e.g., up to **+25.38%** for GLM-4.6V-Flash). |
 
 ---
 
